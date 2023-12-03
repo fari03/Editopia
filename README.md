@@ -1,6 +1,8 @@
 # Editopia - A rich text editor
 
 Welcome to Editopia, an innovative rich text editor designed to empower your writing experience. With a user-friendly interface and a plethora of options, Editopia lets you craft your words exactly the way you envision. Whether you're drafting a document, composing an email, or writing creatively, Editopia has you covered.
+![Screenshot (206)](https://github.com/fari03/Editopia/assets/92734995/6317c076-be25-4774-9a22-97d49c5c21e0)
+
 
 ## Key Features
 
